@@ -1,0 +1,14 @@
+{
+  "name": "discord-dummy-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to stay online on a Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
